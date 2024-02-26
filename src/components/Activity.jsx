@@ -30,7 +30,7 @@ export default class Activity extends Component {
       d.getMonth() == t.getMonth() &&
       d.getYear() == t.getYear()
     );
-  }
+  }sa
 
   makeStartDate() {
     var sd = this.props.start_date;
